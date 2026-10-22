@@ -1,0 +1,1 @@
+To be used in any maltab code I write, imported at the top as my personal work environment/toolbase.
